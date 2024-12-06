@@ -1,2 +1,2 @@
 # trex
-trex game c-17
+The game which keeps us engaged when our internet goes off !
